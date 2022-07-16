@@ -1,0 +1,70 @@
+body{
+    text-align: center;
+    background-color: rgb(233, 216, 252);
+}
+
+h1,h2,h3{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color: rgb(99, 43, 231);
+}
+img{
+    width: 150px;
+    margin-bottom:15px ;
+}
+ul{
+    list-style: none;
+    margin-left: -20px;
+}
+main{
+    background-color: rgb(99, 43, 231);
+
+    margin-right: 280px;
+    margin-left: 280px;
+    border-radius: 18px;
+    padding: 15px;
+    
+}
+p{
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+   
+}
+h2{
+    color:white;
+}
+a{
+    background-color: rgb(231, 236, 162);
+    color:black;
+    border-radius: 5px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+a:hover{
+    background-color: rgb(245, 187, 61);
+}
+a:active{
+    background-color: rgb(236, 236, 236);
+}
+#PDF
+{
+    background-color: rgb(226, 192, 43);
+    color: black;
+    margin:20px 550px 0px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+main p,h2{
+    text-align: left;
+}
+footer p{
+    color:grey;
+}
+.important{
+    border-left: 3px solid rgb(247, 210, 91);
+    padding-left:8px ;
+    color:rgb(231, 236, 162);
+}
